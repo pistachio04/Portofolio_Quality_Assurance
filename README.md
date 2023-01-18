@@ -18,12 +18,8 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Test cases
 
 - [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/) was used to create demo test cases
   * Test case for Login, Make Appointment process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Qg2lrHymJiBee4q5C-_skde1cJZBl-uM/edit#gid=1608462951)
 
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
