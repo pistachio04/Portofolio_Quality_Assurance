@@ -11,7 +11,7 @@
 ## About Me
 Hi, my name is M. Sigid Prasetyo, a graduate of the Information Systems Study Program, with an interest in the Software Quality Assurance profession.
 
-# CV
+## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d-OBhj0FFD1sW8FWTq61IL0jNzx6LhYo/view?usp=share_link).
 
 ## Examples of my work
