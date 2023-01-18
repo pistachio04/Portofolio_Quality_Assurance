@@ -3,12 +3,15 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Test cases](#test-cases)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
 
 
 
 ## About Me
+
+<p align="center"><img height="150" src="https://raw.githubusercontent.com/pistachio04/Portofolio_Quality_Assurance/main/me.jpg"></p>
+<br>
 Hi, my name is M. Sigid Prasetyo, a graduate of the Information Systems Study Program, with an interest in the Software Quality Assurance profession.
 
 ## CV
