@@ -15,3 +15,15 @@ Hi, my name is M. Sigid Prasetyo, a graduate of the Information Systems Study Pr
 
 # CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d-OBhj0FFD1sW8FWTq61IL0jNzx6LhYo/view?usp=share_link).
+
+## Examples of my work
+
+### Test cases and work in TestRail
+
+- [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/) was used to create demo test cases
+  * Test case for Login, Make Appointment process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+
+- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
+  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
