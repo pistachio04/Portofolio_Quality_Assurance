@@ -22,7 +22,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### Test cases
 
 - [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/) was used to create demo test cases
-  * Test case for Login, Make Appointment process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Qg2lrHymJiBee4q5C-_skde1cJZBl-uM/edit#gid=1608462951)
+  * Test case for Login, Make Appointment process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1-c47z7f0tArDrLdQllz8d16n_VyHb-BQ/edit#gid=759559089)
 
 
 ### Bug reports and work in Jira
