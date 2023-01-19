@@ -2,6 +2,7 @@
 
 - [About me](#about-me)
 - [CV](#cv)
+- [Skills](#skills)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
@@ -16,6 +17,23 @@ Hi, my name is M. Sigid Prasetyo, a graduate of the Information Systems Study Pr
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d-OBhj0FFD1sW8FWTq61IL0jNzx6LhYo/view?usp=share_link).
+
+## Skills
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+
+__Manual testing__
+  * can perform manual functional and usability testing of web applications
+
+__API testing__
+  * gained experience through manual testing of REST APIs
+
+__Test documentation__
+  * can create test cases
+  * able to prepare comprehensive bug reports
+
+__SQL databases__
+  * can write requests using subqueries
+
 
 ## Examples of my work
 
