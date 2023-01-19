@@ -13,7 +13,9 @@
 
 <p align="center"><img height="150" src="https://raw.githubusercontent.com/pistachio04/Portofolio_Quality_Assurance/main/me.jpg"></p>
 <br>
-Hi, my name is M. Sigid Prasetyo, a graduate of the Information Systems Study Program, with an interest in the Software Quality Assurance profession.
+Hi, my name is M. Sigid Prasetyo graduated from Amikom Yogyakarta University with the Information Systems Study Program. I have interest in Software Quality Assurance profession. My current activities and experience as a job seeker, upgrading skills and having attended an internship at a multinational subsidiary located in Yogyakarta. 
+
+[More about me....](https://www.linkedin.com/in/msigid10/)
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d-OBhj0FFD1sW8FWTq61IL0jNzx6LhYo/view?usp=share_link).
