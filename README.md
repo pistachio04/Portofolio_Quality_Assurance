@@ -32,3 +32,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1OErfOcZk29psQlu5YaEyVO7TuAyINbft/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1PQXKDt51NVQ0PmGUTUq_aU2hU1jdfZJC/view?usp=sharing).
 
+
+<br>
+<br>
+<p align="center">  ---------=  Thankyou :D  =---------- </p>
