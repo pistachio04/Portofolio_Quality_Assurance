@@ -25,7 +25,7 @@ __Manual testing__
   * can perform manual functional and usability testing of web applications
 
 __API testing__
-  * gained experience through manual testing of REST APIs
+  * gained experience through manual testing of REST APIs using Postman
 
 __Test documentation__
   * can create test cases
