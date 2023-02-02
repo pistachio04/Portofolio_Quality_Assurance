@@ -43,6 +43,10 @@ __SQL databases__
 
 - [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/) was used to create demo test cases
   * Test case for Login, Make Appointment process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1-c47z7f0tArDrLdQllz8d16n_VyHb-BQ/edit#gid=759559089)
+  
+- [React Gallery] was used to create demo test cases
+  * Test case for Login, Dashboard process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1YeUZg8b9Knj5cnrsYWrpsLHvIsNrwO8EHS3_CfeCW-o/edit#gid=0)
+  
 
 
 ### Bug reports and work in Jira
