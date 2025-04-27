@@ -18,7 +18,7 @@ Hi, my name is M. Sigid Prasetyo graduated from Amikom Yogyakarta University wit
 [More about me....](https://www.linkedin.com/in/msigid10/)
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d-OBhj0FFD1sW8FWTq61IL0jNzx6LhYo/view?usp=share_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1TqGgcX2u9nYTDkdUv2hlkjX_VWe1JscV/view?usp=sharing).
 
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
